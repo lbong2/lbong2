@@ -1,12 +1,3 @@
----
-layout: about
-image: /assets/me/me.jpg
-description: >
-  컴퓨터 비전 개발자를 희망하는 대학생입니다.
-hide_description: true
-
----
-
 # About
 
 <!--author-->
