@@ -7,13 +7,13 @@
 이경봉
 </span>
 </center>
-
+<br>
 <center>MAJOR : Electrical Electronic Engineering </center>
-
+<br>
 <center>Konkuk University</center>
-
+<br>
 <center>120, Neungdong-ro, Gwangjin-gu, Seoul, Republic of Korea</center>
-
+<br>
 ## Personal Data
 ---
 > 1998.09.21 대한민국, 대구광역시 출생
