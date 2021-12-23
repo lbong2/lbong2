@@ -22,7 +22,7 @@
 > 연락처: dkw05121@konkuk.ac.kr
 ><br>
 > Github : https://github.com/lbong2
-
+---
 ## Education
 > Mar.2017 ~ ing 건국대학교 재학중
 ><br>
